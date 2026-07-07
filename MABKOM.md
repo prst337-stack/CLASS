@@ -1,9 +1,3 @@
-# Buod ng Materyal sa Komunikasyon
-
-Narito ang lahat ng mahahalagang impormasyon mula sa materyal, pinagsama ang mga nakasulat sa presentasyon at ang mga karagdagang paliwanag na ibinahagi sa talakayan:
-
----
-
 ## I. Batayang Konsepto ng Komunikasyon
 
 *   **Personal na Komunikasyon:** Ito ang pakikipag-usap sa sarili (intrapersonal). Ginagamit ito sa pagsusuri ng sariling isipan at damdamin bago magsalita o gumawa ng desisyon.
